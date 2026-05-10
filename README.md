@@ -2,8 +2,8 @@
 
 📊 Data Mining Repository
 
-Repository ini berisi kumpulan tugas dan praktik selama perkuliahan Data Mining.
-Setiap pertemuan memiliki beberapa implementasi kode yang mencakup berbagai tahapan dalam proses data mining.
+Repository ini berisi Implementasi dan praktik Data Mining.
+Setiap file memiliki beberapa implementasi kode yang mencakup berbagai tahapan dalam proses data mining.
 
 ## 📄 Deskripsi File
 
@@ -13,7 +13,7 @@ Notebook ini berisi pembahasan dan implementasi metode untuk mengukur tingkat ke
 
 ---
 
-### 🔹 tuga3-implementasi-distance-measure.ipynb
+### 🔹 implementasi-distance-measure.ipynb
 
 Berisi implementasi berbagai metode distance measure (pengukuran jarak) seperti Euclidean, Manhattan, atau metode lainnya untuk menghitung jarak antar data.
 
